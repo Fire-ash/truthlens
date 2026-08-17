@@ -11,6 +11,21 @@ Fake news detection can be approached as a text-classification problem. TruthLen
 The application provides a prediction and confidence score through a web-based interface.
 
 > **Important:** TruthLens is a classification system, not an independent fact-checking engine. It does not verify claims against external sources.
+## Demo
+
+### Application Interface
+
+<img width="1920" height="975" alt="Screenshot From 2026-08-15 17-08-20" src="https://github.com/user-attachments/assets/5ec4796b-6bad-407f-86a6-63fc38f86651" />
+
+<img width="1903" height="983" alt="Screenshot From 2026-08-15 18-22-47" src="https://github.com/user-attachments/assets/77df02af-a4ed-404b-b06a-b8c21d8eca6c" />
+
+## Live Demo
+
+**Application:** https://truthlens-what-is-real.streamlit.app/
+
+### Demo Video
+
+https://www.image2url.com/r2/default/videos/1786799658868-3d201eec-848f-487e-af12-eaa2a2581e8e.mp4
 
 ## Features
 
